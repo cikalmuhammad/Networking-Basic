@@ -1,6 +1,5 @@
 Submission Proyek Membangun Web Server - Kelas Belajar Jaringan Komputer untuk Pemula
 
-Sertifikat Kompetensi Kelas Belajar Jaringan Komputer untuk Pemula
 
 🚀 Deskripsi Kelas
 Kelas Belajar Jaringan Komputer untuk Pemula
